@@ -1,17 +1,16 @@
-# flutter_hangout
-WIP
+# hangout
 
-You will have to fulfill various tasks that will help you understand how a mobile app
-works. The goal is to make an app allowing to create a contact (containing at least 5
-details), edit it and delete it. Once the contact is recorded, you will have to be able to
-communicate with him through text messages.
+A new Flutter project.
 
-Contacts are recorded persistently (SQLite database, don’t use the shared contact
-table. You must create your own). A sumary for each contact will appear as a list on the
-app’s homepage. You should be able to click on each contact to show their details.
+## Getting Started
 
-Your app will have to propose two different languages, one being the default language
-(change the system language for a test). When you’re on the homepage and set the app
-in the background, the date will be saved and will show in a toast when you return to
-the front. You will have to create a menu that will allow you to change the app’s header
-color. Finally, the app icon will have to be the 42 logo.
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
